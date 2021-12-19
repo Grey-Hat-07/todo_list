@@ -1,5 +1,6 @@
 {
   "name": "test1",
+  "homepage": "https://subhamay2002.github.io/todo_list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
